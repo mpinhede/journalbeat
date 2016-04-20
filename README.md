@@ -45,8 +45,8 @@ go get github.com/nranchev/go-libGeoIP
 go get github.com/satori/go.uuid
 go get gopkg.in/yaml.v2
 go get github.com/mheese/go-systemd
-go get github.com/mheese/journalbeat
-go install github.com/mheese/journalbeat
+go get github.com/mpinhede/journalbeat
+go install github.com/mpinhede/journalbeat
 ```
 
 **NOTE:** This is not the preferred way from Elastic on how to do it. Needs to
